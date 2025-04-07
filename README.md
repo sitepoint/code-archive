@@ -1,8 +1,5 @@
-# code-archive
-Code and resources associated with classic SitePoint books.
-
-
-## Description
+# SitePoint Book Code Archive
+This page contains code and resources associated with classic SitePoint books.
 
 What follows are listings of many code archives that were formally
 available at [http://www.sitepoint.com/books/codearchive.php](
@@ -50,8 +47,6 @@ https://web.archive.org/web/20130511195325/http://www.sitepoint.com/books/codear
 * [Simply SQL](https://www.sitepoint.com/premium/books/simply-sql/) ([sql1-code.zip](simply_sql/sql1-code.zip))
 * Unknown title ([revenue1-code.zip](unknown_title/revenue1-code.zip))
 
-
-## Other
 
 If the resource you are after is missing, please reach out to us on
 support@sitepoint.com and let us know which book you are missing code
