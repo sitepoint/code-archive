@@ -1,5 +1,6 @@
 # SitePoint Book Code Archive
-This page contains code and resources associated with classic SitePoint books.
+This page contains code and resources associated with classic
+SitePoint books.
 
 What follows are listings of many code archives that were formally
 available at [http://www.sitepoint.com/books/codearchive.php](
@@ -48,6 +49,7 @@ https://web.archive.org/web/20130511195325/http://www.sitepoint.com/books/codear
 * Unknown title ([revenue1-code.zip](unknown_title/revenue1-code.zip))
 
 
-If the resource you are after is missing, please reach out to us on
-support@sitepoint.com and let us know which book you are missing code
-files for, and we’ll do our best to help.
+If the resource you are after is missing, please reach out to us at
+[support@sitepoint.com](mailto:support@sitepoint.com) and let us know
+which book you are missing code files for, and we’ll do our best to
+help.
